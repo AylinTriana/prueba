@@ -1,4 +1,4 @@
-![banner](https://raw.githubusercontent.com/AylinTriana/prueba/5d4286296667160ff238ddc8684e614fdb382ff7/hotel%20huellitas.jpg)
+![banner](https://raw.githubusercontent.com/AylinTriana/prueba/49b518bf9a6905f735f82655683a566595f9553c/hotel%20huellitas.jpg)
 
 
 # Bienvenid@s al Proyecto Integrador del *Equipo 4* 🚀
