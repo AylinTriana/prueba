@@ -1,4 +1,5 @@
-<img src="https://imgur.com/a/hotel-huellitas-meJXpQB">  
+![banner](https://raw.githubusercontent.com/AylinTriana/prueba/5d4286296667160ff238ddc8684e614fdb382ff7/hotel%20huellitas.jpg)
+
 
 # Bienvenid@s al Proyecto Integrador del *Equipo 4* 🚀
 
