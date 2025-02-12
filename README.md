@@ -7,8 +7,8 @@
 
 | *Nombre*   | *Repositorio(s)*                                                    |
 | ------------ | --------------------------------------------------------------------- |
-| Frontend     | [Link](https://github.com/ProyectoIntegrador-DH-Equipo5/Frontend)     |
-| Backend      | [Link](https://github.com/ProyectoIntegrador-DH-Equipo5/Backend)      |
+| Frontend     | [Link](https://github.com/AylinTriana/ParcialFrontEnd.git)     |
+| Backend      | [Link](https://github.com/AylinTriana/ctd-esp-fe3-final.git)      |
 
 ### Links de utilidad 📎
 
