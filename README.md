@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/meJXpQB">  
+<img src="https://imgur.com/gallery/hotel-huellitas-meJXpQB">  
 
 # Bienvenid@s al Proyecto Integrador del *Equipo 4* 🚀
 
