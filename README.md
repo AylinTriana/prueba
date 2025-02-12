@@ -1,4 +1,4 @@
-<img src="https://imgur.com/FJSzdpQ.png">
+<img src="https://imgur.com/a/meJXpQB">  
 
 # Bienvenid@s al Proyecto Integrador del *Equipo 4* 🚀
 
