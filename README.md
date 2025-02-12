@@ -1,6 +1,6 @@
-![banner](https://github.com/user-attachments/assets/f6b0f02a-347e-4fc4-8451-f9fb8be17f8a)
+<img src="https://imgur.com/FJSzdpQ.png">
 
-# Bienvenid@s al Proyecto Integrador del *Equipo 5* 🚀
+# Bienvenid@s al Proyecto Integrador del *Equipo 4* 🚀
 
 ### Actualmente, estamos trabajando en los siguientes repositorios:
 
@@ -11,8 +11,8 @@
 
 ### Links de utilidad 📎
 
-  - [Trello](https://trello.com/b/cZssITcu/proyecto-integrador)
-  - [Figma](https://www.figma.com/design/ej9zalrJtNCFvOQe3wB89O/PROYECTO-INTEGRADOR?node-id=0-1&node-type=canvas&t=ZW4mTSFycA6joHOM-0)
+  - [Trello](https://trello.com/b/oxJBfqh0/c204)
+  - [Figma](https://www.figma.com/design/MjYdK5mlECKKPcoh28JgH1/Huellitas-DH?node-id=0-1&t=phjP0hvpSYSQE8vQ-1 )
 
 
 ---
